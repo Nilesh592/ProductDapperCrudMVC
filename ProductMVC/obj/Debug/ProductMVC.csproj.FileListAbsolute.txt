@@ -74,8 +74,8 @@ C:\Internship\ProductMVC\ProductMVC\bin\System.Web.WebPages.Razor.xml
 C:\Internship\ProductMVC\ProductMVC\bin\Newtonsoft.Json.xml
 C:\Internship\ProductMVC\ProductMVC\bin\Antlr3.Runtime.pdb
 C:\Internship\ProductMVC\ProductMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Internship\ProductMVC\ProductMVC\obj\Debug\ProductMVC.csproj.AssemblyReference.cache
 C:\Internship\ProductMVC\ProductMVC\obj\Debug\ProductMVC.csproj.CoreCompileInputs.cache
 C:\Internship\ProductMVC\ProductMVC\obj\Debug\ProductMVC.csproj.CopyComplete
 C:\Internship\ProductMVC\ProductMVC\obj\Debug\ProductMVC.dll
 C:\Internship\ProductMVC\ProductMVC\obj\Debug\ProductMVC.pdb
-C:\Internship\ProductMVC\ProductMVC\obj\Debug\ProductMVC.csproj.AssemblyReference.cache
