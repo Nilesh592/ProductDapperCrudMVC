@@ -1,7 +1,7 @@
 # ProductDapperCrudMVC
 
 A simple Product Master web application using Asp.net Core, Dapper and MSSql to create , view, edit and delete products.
-App is hosting using freeasphosting.net, click on following link to access the website - https://nileshshirsat.bsite.net/
+App is hosted using freeasphosting.net, click on following link to access the website - https://nileshshirsat.bsite.net/
 
 Desgign of website - 
 
